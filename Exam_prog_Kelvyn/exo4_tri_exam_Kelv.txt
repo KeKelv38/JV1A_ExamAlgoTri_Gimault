@@ -1,0 +1,4 @@
+Le tri a bulles est lent car pour déplacer chaque valeur le porgramme doit recommencer le tableau depuis le debut.
+Donc il vérifie des valeurs qu'il a déjà vérifié.
+La durée d'execution est exponentielle en fonction du nombre de valeur a vérifier.
+
